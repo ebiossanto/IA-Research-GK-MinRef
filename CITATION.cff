@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "gk_minref — comprimento minimo exato de refutacao (Resolucao)"
+message: "Se você usar esta ferramenta, cite o repositório-mãe e este software."
+type: software
+authors:
+  - family-names: "Soares dos Santos"
+    given-names: "Euzébio"
+    role: author
+license: MIT
+repository-code: "https://github.com/ebiossanto/IA-Research-GK-MinRef"
+url: "https://github.com/ebiossanto/IA-Research-GK-MinRef"
+abstract: "Núcleo: encoder `REF_t` (semântica de linhas) das frentes C2/LP — dá o comprimento mínimo **exato** de refutação para CNFs pequenas."
+keywords: ["proof-complexity", "bounded-arithmetic", "goedel", "krajicek",
+  "formal-methods", "reproducible-research"]
+preferred-citation:
+  type: software
+  title: "gk_minref — comprimento minimo exato de refutacao (Resolucao)"
+  author:
+    - family-names: "Soares dos Santos"
+      given-names: "Euzébio"
+  year: 2026
+  url: "https://github.com/ebiossanto/IA-Research-GK-MinRef"
+  notes: "Extraido do repositorio IA-research-Godel-e-Krajicek (MIT)."
